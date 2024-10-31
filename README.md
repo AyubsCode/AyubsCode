@@ -29,6 +29,7 @@ I am passionate about the world of embedded systems and cybersecurity, driven by
   
 ### 📝 I’m currently completing...
 <hr style="border: 0.5px solid #000;">
+
   -  Junior Cybersecurity Analyst Pathway through Cisco Networking Academy
 
 <!--
