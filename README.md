@@ -4,7 +4,7 @@
 <h3>Information Security Student</h3>
 
 </div>
-------------------------------------
+<hr style="border: 1px solid #000;">
 
 I am passionate about the world of embedded systems and cybersecurity, driven by a commitment to uncover how complex systems operate by dissecting them into their foundational components. My approach is both analytical and hands-on, focused on exploring system architecture intricacies and pinpointing vulnerabilities to enhance security. With a solid grounding in secure design principles, I strive to create resilient, dependable solutions that address emerging security challenges. My ongoing work combines technical depth with curiosity, building a proactive understanding of embedded systems and the evolving landscape of cybersecurity.
 
