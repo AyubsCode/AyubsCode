@@ -10,7 +10,7 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
 
 
 
-* 🖥️  See my portfolio at [site](https://codeseeker1.github.io/Portfolio-Website/)
+* 🖥️  See my portfolio at [site](https://codeseeker1.github.io/Portfolio-Website/) (work in progress)
 
 ### 🤝 Connect with me:
 
