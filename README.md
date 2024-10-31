@@ -24,9 +24,7 @@ I am passionate about the world of embedded systems and cybersecurity, driven by
 ### 🔭 I’m currently working on ...
 <hr style="border: 0.5px solid #000;">
 
-  - LEDLink: Bluetooth LED Controller
- <br>
- 
+  - LEDLink: Bluetooth LED Controller<br>
   - Homelab
   
 ### 📝 I’m currently completing...
