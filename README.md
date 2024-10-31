@@ -8,7 +8,7 @@
 
 I am passionate about the world of embedded systems and cybersecurity, driven by a commitment to uncover how complex systems operate by dissecting them into their foundational components. My approach is both analytical and hands-on, focused on exploring system architecture intricacies and pinpointing vulnerabilities to enhance security. With a solid grounding in secure design principles, I strive to create resilient, dependable solutions that address emerging security challenges. My ongoing work combines technical depth with curiosity, building a proactive understanding of embedded systems and the evolving landscape of cybersecurity.
 
-* 🖥️  See my portfolio at [site](http://https://codeseeker1.github.io/Portfolio-Website/)
+* 🖥️  See my portfolio at [site](https://codeseeker1.github.io/Portfolio-Website/)
 
 ### 🤝 Connect with me:
 
