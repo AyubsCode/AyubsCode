@@ -1,6 +1,10 @@
-Hi, I'm Ayub 👋
+<div align="center">
 
+Hi, I'm Ayub 👋  
 Information Security Student
+
+</div>
+
 ***
 
 I am passionate about the world of embedded systems and cybersecurity, driven by a commitment to uncover how complex systems operate by dissecting them into their foundational components. My approach is both analytical and hands-on, focused on exploring system architecture intricacies and pinpointing vulnerabilities to enhance security. With a solid grounding in secure design principles, I strive to create resilient, dependable solutions that address emerging security challenges. My ongoing work combines technical depth with curiosity, building a proactive understanding of embedded systems and the evolving landscape of cybersecurity.
@@ -15,15 +19,15 @@ I am passionate about the world of embedded systems and cybersecurity, driven by
 </p>
 
 ### 🔭 I’m currently working on ...
----
+------------------------------------
   - LEDLink: Bluetooth LED Controller
   - Homelab
 ### 📝 I’m currently completing...
----
+-----------------------------------
   -  Junior Cybersecurity Analyst Pathway through Cisco Networking Academy
 
-### Socials
----
+### Connect with me:
+---------------------
 
 <p align="left"> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ayubmhaji/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
