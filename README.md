@@ -20,7 +20,7 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
 <hr style="border: 0.5px solid #000;">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,kali,ubuntu,neovim,c,vim,vscode,mysql,py" />
+    <img src="https://skillicons.dev/icons?i=git,bash,kali,ubuntu,neovim,c,vim,vscode,mysql,py,perl" />
   </a>
 </p>
 
