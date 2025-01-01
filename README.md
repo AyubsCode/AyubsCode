@@ -30,8 +30,8 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
   - LEDLink: Bluetooth LED Controller<br>
   - Homelab
   
-### 📝 I’m currently completing...
+### 📝 Plans for the Future...
 <hr style="border: 0.5px solid #000;">
 
-  -  Junior Cybersecurity Analyst Pathway through Cisco Networking Academy
+  -  Studying CCNA
 
