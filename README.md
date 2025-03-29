@@ -30,9 +30,9 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
   - LEDLink: Bluetooth LED Controller<br>
   - Homelab
   - Graphite (Capstone Project)
+  - Studying for CompTIA Security+
   
 ### 📝 Plans for the Future...
 <hr style="border: 0.5px solid #000;">
-
-  -  Studying CCNA
+  -  Getting my CCNA
 
