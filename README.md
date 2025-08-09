@@ -26,10 +26,9 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
 
 ### 🔭 I’m currently working on ...
 <hr style="border: 0.5px solid #000;">
-
-  - LEDLink: Bluetooth LED Controller<br>
+  - Weather App
   - Homelab
-  - Graphite (Capstone Project)
+ 
   
 ### 📝 Plans for the Future...
 <hr style="border: 0.5px solid #000;">
