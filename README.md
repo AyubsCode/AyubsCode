@@ -33,5 +33,6 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
   
 ### 📝 Plans for the Future...
 <hr style="border: 0.5px solid #000;">
+
   -  Getting my CCNA
 
