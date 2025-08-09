@@ -26,8 +26,9 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
 
 ### 🔭 I’m currently working on ...
 <hr style="border: 0.5px solid #000;">
-  - Weather App
-  - Homelab
+
+  -  Weather App
+  -  Homelab
  
   
 ### 📝 Plans for the Future...
