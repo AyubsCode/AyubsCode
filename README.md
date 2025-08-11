@@ -10,7 +10,7 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
 
 
 
-* 🖥️  See my portfolio at [site](https://ayubscode.github.io/Portfolio-Website/) (work in progress)
+* 🖥️  See my portfolio [site](https://ayubscode.github.io/Portfolio-Website/) (work in progress)
 
 ### 🤝 Connect with me:
 
@@ -20,7 +20,7 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
 <hr style="border: 0.5px solid #000;">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,kali,ubuntu,neovim,c,vim,vscode,mysql,py,perl" />
+    <img src="https://skillicons.dev/icons?i=git,bash,kali,ubuntu,neovim,c,vim,vscode,mysql,py,kotlin" />
   </a>
 </p>
 
@@ -28,7 +28,8 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
 <hr style="border: 0.5px solid #000;">
 
   -  Weather App
-  -  Homelab
+  -  LedgerLite App
+  -  Homelab: [site](https://ayubsec-labs.gitbook.io/ayubsec-labs/)
  
   
 ### 📝 Plans for the Future...
