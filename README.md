@@ -6,7 +6,7 @@
 </div>
 <hr style="border: 1px solid #000;">
 
-I'm passionate about embedded systems and cybersecurity, driven by a commitment to understanding how complex systems function through detailed analysis of their foundational components. My approach is both analytical and hands-on, emphasizing the exploration of system architecture and the identification of vulnerabilities to strengthen security measures. With a solid understanding of secure design principles, I aim to develop resilient and dependable solutions that effectively address emerging security challenges. My ongoing work integrates technical depth with a keen curiosity, fostering a proactive understanding of embedded systems and the ever-evolving landscape of cybersecurity.
+*Curious by nature and fueled by a whirlwind of ideas, I’m always juggling projects I can’t wait to bring to life.*
 
 
 
@@ -27,8 +27,7 @@ I'm passionate about embedded systems and cybersecurity, driven by a commitment 
 ### 🔭 I’m currently working on ...
 <hr style="border: 0.5px solid #000;">
 
-  -  Weather App
-  -  LedgerLite App
+  -  Phish2Ransom
   -  Homelab: [site](https://ayubsec-labs.gitbook.io/ayubsec-labs/)
  
   
