@@ -27,7 +27,6 @@
 ### 🔭 I’m currently working on ...
 <hr style="border: 0.5px solid #000;">
 
-  -  Phish2Ransom
   -  Homelab: [site](https://ayubsec-labs.gitbook.io/ayubsec-labs/)
  
   
