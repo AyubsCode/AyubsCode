@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2>Hi, I'm Ayub 👋 </h2> <br><br>
-<h3>Information Security Student</h3>
+
 
 </div>
 <hr style="border: 1px solid #000;">
@@ -28,6 +28,7 @@
 <hr style="border: 0.5px solid #000;">
 
   -  Homelab: [site](https://ayubsec-labs.gitbook.io/ayubsec-labs/)
+  -  Cisco Enterprise Network Lab
  
   
 ### 📝 Plans for the Future...
