@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2>Hi, I'm Ayub 👋 </h2> <br><br>
-<img src="assets/noir.gif" width=600 alt="Image">
+<img src="assets/noir.gif" width=1000 alt="Image">
 
 </div>
 <hr style="border: 1px solid #000;">
