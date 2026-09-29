@@ -26,13 +26,8 @@
 
 ### 🔭 I’m currently working on ...
 <hr style="border: 0.5px solid #000;">
-
-  -  Homelab: [site](https://ayubsec-labs.gitbook.io/ayubsec-labs/)
-  -  Cisco Enterprise Network Lab
  
   
 ### 📝 Plans for the Future...
 <hr style="border: 0.5px solid #000;">
-
-  -  Getting my CCNA
 
